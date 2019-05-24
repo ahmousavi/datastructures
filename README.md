@@ -1,2 +1,3 @@
-# threadedavltree
-A threaded AVL tree class written with c++
+# Data structures
+- AVL tree
+- Threaded-AVL tree
